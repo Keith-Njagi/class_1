@@ -1,0 +1,5 @@
+This is what we need to work on
+ - Template
+ - Model
+ - View
+ 
